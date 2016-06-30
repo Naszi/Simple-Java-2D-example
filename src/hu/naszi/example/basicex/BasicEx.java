@@ -11,7 +11,6 @@ class Surface extends JPanel {
 	private void doDrawing(Graphics g) {
 		Graphics2D g2d = (Graphics2D) g;
 		g2d.drawString("Java 2D", 50, 50);
-
 	}
 
 	@Override
