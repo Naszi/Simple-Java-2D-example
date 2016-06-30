@@ -14,8 +14,6 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
-import org.omg.CosNaming.NamingContextExtPackage.AddressHelper;
-
 class Surface extends JPanel implements ActionListener {
 
 	private final int DELAY = 150;
